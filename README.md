@@ -2,12 +2,16 @@
   <a href="#">Привет! Меня зовут Виктория</a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
 </h1>
-<h2 align="center"> Я Front-end разработчик</h2>
+<h2 align="center">Я Front-end разработчик</h2>
 <p align="center"><img src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="300" height="300"/></p>
 
 <p align="center">
-<a href="https://t.me/viktorypolischuk"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
-<a href="mailto:viktory.polischuk@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+  <a href="https://t.me/viktorypolischuk">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:viktory.polischuk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
 ### Обо мне:
@@ -22,7 +26,7 @@
   
 * ⏱ Учусь анализировать сложность алгоритмов
 
-## Мои цели:
+### Мои цели:
 - Интуитивно понимать JavaScript;
   
 ---
